@@ -1,2 +1,3 @@
-# Moebius_strip_with_python
-A short exploration of the problem of a single electron in a Moebiüs strip, through quantum mechanics.
+# Single Electron in a Moebiüs Strip
+
+I analize this problem through the lens of quantum mechanics. Using the Shröedinger equation, one can find the eigenvalues and eigenstates of the system, and the solutions of the equation are visualized with the help of a Jupyter Notebook.
